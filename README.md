@@ -44,7 +44,7 @@
 
 - 📍 Learning all the cibersecurity stuff
 - ☕ Poker developed in Java
-- 💻 Web aplications for big clients
+- 💻 Web applications for big clients
 
 ---
 
