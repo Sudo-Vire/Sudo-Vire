@@ -50,8 +50,8 @@
 
 ## 📬 Contact
 
-- [Instagram](https://www.instagram.com/_.vire._)
 - [LinkedIn](https://www.linkedin.com/in/victor-reguillo-765812357)
+- [Instagram](https://www.instagram.com/_.vire._)
 - victorreguillo@gmail.com
 
 ---
