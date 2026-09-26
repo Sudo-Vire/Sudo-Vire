@@ -1,6 +1,6 @@
 # 👋 Hello there, greetings from **Sudo-Vire**
 
-🧑‍💻 Currently a web developer with desires of becoming an ethical hacker
+🧑‍💻 Currently a web developer, in a close future an ethical hacker
 
 ---
 
@@ -42,8 +42,9 @@
 
 ## 🔐 Projects:
 
-- 📍 Learning all the fullstack stuff
-- ☕ Developing a poker program
+- 📍 Learning all the cibersecurity stuff
+- ☕ Poker developed in Java
+- 💻 Web aplications for big clients
 
 ---
 
